@@ -1,2 +1,2 @@
-# -_FE-_-_-
+# wanted-pre-onboarding-frontend-challenge
 슈우우웃
